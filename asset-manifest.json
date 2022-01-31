@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.218b3732.css",
+    "main.js": "/static/js/main.7b3ca452.js",
+    "static/media/larceny.jpg": "/static/media/larceny.9787ad59594932eacc18.jpg",
+    "static/media/LagavulinOffermanEdition.jpg": "/static/media/LagavulinOffermanEdition.2fb0aa5b8a72072a995e.jpg",
+    "static/media/johnniewalkerbluelabel.jpg": "/static/media/johnniewalkerbluelabel.70b45fead86fda14008d.jpg",
+    "static/media/TaconicPrivateReserveBourbon.jpg": "/static/media/TaconicPrivateReserveBourbon.4938f40ea09bc7bbdd68.jpg",
+    "static/media/smoothambler.jpg": "/static/media/smoothambler.cfe4fbb6a294430f5c9e.jpg",
+    "static/media/brightlights.jpg": "/static/media/brightlights.c6ecf73fdc1e76144b75.jpg",
+    "static/media/BulleitBourbon.jpg": "/static/media/BulleitBourbon.32da87d1195dc211e6bc.jpg",
+    "static/media/johnniewalkerdoubleblack.jpg": "/static/media/johnniewalkerdoubleblack.7e126e2466c09c0fdfcb.jpg",
+    "static/media/suntorytoki.jpg": "/static/media/suntorytoki.46a2e10077e7d9c21950.jpg",
+    "static/media/glenfiddich15.jpg": "/static/media/glenfiddich15.8b106f770e63320d5e8c.jpg",
+    "static/media/johnniewalker18.jpg": "/static/media/johnniewalker18.68091bd0e056cf8379ea.jpg",
+    "index.html": "/index.html",
+    "main.218b3732.css.map": "/static/css/main.218b3732.css.map",
+    "main.7b3ca452.js.map": "/static/js/main.7b3ca452.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.218b3732.css",
+    "static/js/main.7b3ca452.js"
+  ]
+}
